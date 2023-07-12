@@ -1,5 +1,5 @@
 # Hi, I'm André
-<p><em>Software Engineer at <a href="http://www.zoi.de">ZOI</a></p>
+<p><em>Software Engineer at <a href="http://www.zoi.de">Zoi</a></p>
 
 [![Twitter: andrefjpinto](https://img.shields.io/twitter/follow/andrefjpinto?style=social)](https://twitter.com/andrefjpinto)
 [![Linkedin: andrefjpinto](https://img.shields.io/badge/-andrefjpinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrefjpinto/)](https://www.linkedin.com/in/andrefjpinto/)
